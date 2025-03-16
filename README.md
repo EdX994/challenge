@@ -29,8 +29,8 @@ Tecnologías utilizadas
 
 Uso
 
-  Ingresa los nombres de los participantes en el formulario proporcionado.
+  1. Ingresa los nombres de los participantes en el formulario proporcionado.
 
-  Haz clic en el botón "Sortear amigo".
+  2. Haz clic en el botón "Sortear amigo".
 
-  El resultado se mostrara en pantalla con el nombre del amigo secreto.
+  3. El resultado se mostrara en pantalla con el nombre del amigo secreto.
