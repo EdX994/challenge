@@ -2,10 +2,13 @@
 
 ##Índice
 
-*Descripción
-*Caracteristícas
-*Tecnologias utilizadas
-*Uso
+*[Descripción](#Descripcion)
+
+*[Caracteristícas](#Caracteristicas)
+
+*[Tecnologias utilizadas](#Tecnologias-utilizadas)
+
+*[Uso](#Uso)
 
 ·Descripción
 
