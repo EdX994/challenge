@@ -32,6 +32,13 @@ Sorteo aleatorio: Utiliza un algoritmo para realizar el sorteo de manera justa y
 
   1. Ingresa los nombres de los participantes en el formulario proporcionado.
 
-  2. Haz clic en el botón "Sortear amigo".
+<img width="833" alt="1" src="https://github.com/user-attachments/assets/016dff48-7f41-4bba-a649-b17495109597" />
 
-  3. El resultado se mostrara en pantalla con el nombre del amigo secreto.
+  3. Haz clic en el botón "Sortear amigo".
+
+<img width="813" alt="2" src="https://github.com/user-attachments/assets/671addab-c652-4bbb-90dc-fb9c6d88d706" />
+     
+  5. El resultado se mostrara en pantalla con el nombre del amigo secreto.
+
+<img width="817" alt="3" src="https://github.com/user-attachments/assets/90211568-7882-4f24-9313-fe476f3f56c2" />
+
