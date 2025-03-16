@@ -10,16 +10,16 @@
 
 *[Uso](#Uso)
 
-·Descripción
+Descripcion
 
   Este proyecto es una aplicación web sencilla desarrollada en JavaScript que permite realizar un sorteo de Amigo Secreto. La aplicación permite a los usuarios ingresar sus nombres y luego realiza un sorteo aleatorio para determinar el amigo secreto.
 
-·Características
+Caracteristicas
 
   Interfaz amigable: Una interfaz simple y fácil de usar para ingresar los datos de los participantes.
 Sorteo aleatorio: Utiliza un algoritmo para realizar el sorteo de manera justa y aleatoria.
 
-·Tecnologías utilizadas
+Tecnologías utilizadas
 
   HTML: Para la estructura básica de la aplicación.
 
@@ -27,7 +27,7 @@ Sorteo aleatorio: Utiliza un algoritmo para realizar el sorteo de manera justa y
 
   JavaScript: Para la lógica del sorteo y la interacción del usuario.
 
-·Uso
+Uso
 
   Ingresa los nombres de los participantes en el formulario proporcionado.
 
